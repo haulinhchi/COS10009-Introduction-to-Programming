@@ -1,0 +1,49 @@
+4
+Dua Lipa (2017)
+Dua Lipa
+images/dualipa_artwork.jpg
+6
+New Love
+musics/newlove.mp3
+New Rules
+musics/newrules.mp3
+Homesick
+musics/homesick.mp3
+Last Dance
+musics/lastdance.mp3
+Thinking 'Bout You
+musics/thinkingboutyou.mp3
+Be The One
+musics/betheone.mp3
+Mini World (2014)
+Indila
+images/miniworld_artwork.jpg
+4
+Dernière Danse
+musics/dernieredanse.mp3
+Love Story
+musics/lovestory.mp3
+Tourner Dans Le Vide
+musics/tournerdanslevide.mp3
+S.O.S
+musics/sos.mp3
+Rare (2020)
+Selena Gomez
+images/rare_artwork.jpg
+3
+Rare
+musics/rare.mp3
+Dance Again
+musics/danceagain.mp3
+Look At Her Now
+musics/lookathernow.mp3
+21 (2011)
+Adele
+images/21_artwork.jpg
+3
+Rolling In The Deep
+musics/rollinginthedeep.mp3
+Set Fire To The Rain
+musics/setfiretotherain.mp3
+Someone Like You
+musics/someonelikeyou.mp3
